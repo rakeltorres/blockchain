@@ -7,14 +7,8 @@ Certifique-se de possuir o seguinte pacote:
 - [Node.js](https://nodejs.org/en/download/package-manager)
 
 ## Instruções gerais
-Abra o terminal e no diretório do projeto execute os seguintes comandos:
+Abra o terminal e no diretório do projeto execute o seguinte comando:
 
-1) Para instalar as bibliotecas necessárias:
-```
- $ npm install 
-```
-
-2) Para iniciar a aplicação:
 ```
  $ node blockchain.js
 ```
