@@ -10,5 +10,5 @@ Certifique-se de possuir o seguinte pacote:
 Abra o terminal e no diretório do projeto execute o seguinte comando:
 
 ```
- $ node blockchain.js
+ $ node index.js
 ```
